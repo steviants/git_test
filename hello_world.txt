@@ -1,1 +1,2 @@
 This is a test document just messing around with the Odin Project.
+Testing a new way to type commit messages.
